@@ -1,0 +1,21 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+.container {
+    border: 3px #8A2BE2;
+    border-style: dotted;
+    border-radius: 15px;
+}
+button {
+    background-color: rgb(138, 43, 226);
+    border-radius: 20px;
+    font-size: medium;
+    color: white;
+}
+
+#increment-btn {
+    font-family: 'Courier New', Courier, monospace;
+}
